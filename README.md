@@ -122,9 +122,11 @@ int main() {
 ```
 ## OUTPUT
 $ ./sem.o 
+
 <img width="398" height="536" alt="image" src="https://github.com/user-attachments/assets/37aa3345-e116-4386-b8fe-a3384f0c7ca8" />
 
 $ ipcs
+
 <img width="616" height="521" alt="image" src="https://github.com/user-attachments/assets/364fe58e-002a-4804-98d1-878d1191da47" />
 
 # RESULT:
